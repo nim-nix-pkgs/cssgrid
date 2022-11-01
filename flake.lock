@@ -111,11 +111,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1665581323,
-        "narHash": "sha256-Y4bXjqJrUbOYMSNxPcjiqdWQSTgtzJxjn+RWwvi/b5c=",
+        "lastModified": 1667331614,
+        "narHash": "sha256-c750q9j1RLDTb5CRKb1sGt3f14GJ7tQg2160ZdjXaB0=",
         "owner": "nim-nix-pkgs",
         "repo": "cssgrid",
-        "rev": "4674ebd15183ab8b2d688d002ff5c8cdf3ae3be3",
+        "rev": "8571944b7f4814d04dec8116a68d40aa57e0ef1c",
         "type": "github"
       },
       "original": {
